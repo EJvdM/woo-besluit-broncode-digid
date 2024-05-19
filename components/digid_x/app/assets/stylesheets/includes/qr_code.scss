@@ -71,6 +71,7 @@ h2.orange_heading + .qr_code {
   image-rendering: pixelated;                 /* Chromes                         */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
   text-align: center;
+  cursor: none;
 }
 
 .digid-qr-code-logo{
